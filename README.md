@@ -1,14 +1,14 @@
-## Hi there Naila 👋
+## 🎀Hi everyone! 👋 I'm *Naila Nur Ihwan 🎀*
+A first-year university student exploring the world of programming and technology.
 
-Here are some ideas to get you started:
+### 🎓 About Me
+- 🏫 Currently studying: Informatics
+- 🖥️ Learning the basics of programming & web development
+- 🧠 I love learning new technologies
+- 🎧 Always listen to music in my free time
+- 💡 Looking to build simple projects and grow step by step
+- ☕ Powered by coffee and curiosity
 
-##About Me
-- 🔭 I’m currently working on Mini projects to improve my design & coding basics
-- 🌱 I’m currently learning Front-end fundamentals, digital creation, and editing
-- 👯 I’m looking to collaborate on Simple creative projects or anything fun to build
-- 🤔 I’m looking for help with Understanding code better & building consistent workflows
-- 💬 Ask me about Editing, basic design, creativity, or anything you’re curious about
-- 📫 How to reach me: 
-      - Instagram = @nailarnn
-      - Email     = nailanurihwann23@gmail.com
-- ⚡ Fun fact: I'm the type who likes a quiet atmosphere to think and be productive.
+### 📫 Let's Connect
+- 📸 Instagram: **https://www.instagram.com/nailarnn?igsh=MW93MjRmdm1leWJkcQ==**  
+- ✉️ Email: nailanurihwann23@gmail.com
