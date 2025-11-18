@@ -1,6 +1,4 @@
 ## Hi there Naila 👋
-<!--
-**nailanurihwann23-pixel/nailanurihwann23-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
       - Instagram = @nailarnn
       - Email     = nailanurihwann23@gmail.com
 - ⚡ Fun fact: I'm the type who likes a quiet atmosphere to think and be productive.
--->
