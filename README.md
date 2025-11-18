@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 
+###About Me
 - 🔭 I’m currently working on Mini projects to improve my design & coding basics
 - 🌱 I’m currently learning Front-end fundamentals, digital creation, and editing
 - 👯 I’m looking to collaborate on Simple creative projects or anything fun to build
