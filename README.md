@@ -10,5 +10,5 @@ A first-year university student exploring the world of programming and technolog
 - ☕ Powered by coffee and curiosity
 
 ### 📫 Let's Connect
-- 📸 Instagram: **https://www.instagram.com/nailarnn?igsh=MW93MjRmdm1leWJkcQ==**  
+- 📱 Instagram: **https://www.instagram.com/nailarnn?igsh=MW93MjRmdm1leWJkcQ==**  
 - ✉️ Email: nailanurihwann23@gmail.com
